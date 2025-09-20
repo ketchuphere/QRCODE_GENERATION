@@ -1,4 +1,5 @@
 QR Code Generator in Python
+
 📌 Overview
 
 This Python project allows you to generate QR codes for multiple profiles or links, such as LinkedIn, LeetCode, and Kaggle.
